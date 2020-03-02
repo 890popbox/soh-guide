@@ -16,4 +16,6 @@ Please report any issues to me either here or on discord :)
 
 # Attacks announced
 
-Onle last boss, almost everything, send IDs that are being forgotten.
+Only last boss, almost everything, send IDs that are being forgotten.
+You can do this with any dungeon, just get Zone IDs, Boss IDs and move IDs
+@See RTPort, Tera-Guide Library
