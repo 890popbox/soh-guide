@@ -5,7 +5,7 @@
 	"description": "Soh Stuff",
 	"options": {
 		"niceName": "Sea-Guide"
-	}
+	},
 		"servers": ["https://raw.githubusercontent.com/890popbox/soh-guide/master/"],
 		"supportUrl": "https://github.com/890popbox/nest-guide/issues"
 }
